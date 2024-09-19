@@ -16,18 +16,18 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+<img src="file:///media/fuse/drivefs-f9f432b7de36cec1721adb8f8a8f46fe/root/IMG_1243.JPG" alt="Rough Sketch of general idea" >
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project is a crude diagram of the 8 planets in the Solar System + the Sun, Earth's moon, and the dwarf planet Pluto.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - I am proud of my creative usage of for loops to solve majority of the nagging issues in my project
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would rework my quandrant painting methods so that each part of the method could work independent of the other (without needing the painter to be in a specific place/facing a certain way).
